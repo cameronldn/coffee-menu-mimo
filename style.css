@@ -1,0 +1,47 @@
+.header {
+    text-align: center;
+    color: chocolate;
+    padding: 20px;
+    font-weight: bold;
+  }
+
+  .menu {
+    margin: auto;
+    width: 400px;
+    border: 3px solid grechocolateen;
+    padding: 10px;
+  }
+
+  .menu-list {
+    /*background-color:antiquewhite;*/
+    padding: 20px;
+    margin: 0 0 0 15px;
+    text-align: left;
+  }
+
+  .menu-item {
+    display: block;
+    font-size: 18px;
+  }
+
+  body {
+    font-family: "Helvetica", sans-serif;
+    background-color: peachpuff;
+  }
+
+  .coffee-image {
+    margin: 15px 20px 0 0;
+    width: 100px;
+    position: relative;
+    z-index: 2;
+    float: right;
+  }
+
+  .coffee-bg {
+    position: absolute;
+    float: right;
+    margin: 80px 0 0 190px;
+    z-index: -1;
+    width: 150px;
+  }
+  
